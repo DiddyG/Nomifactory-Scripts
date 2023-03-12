@@ -1,4 +1,3 @@
-#packmode normal
 #modloaded appliedenergistics2
 
 import mods.gregtech.multiblock.Builder;
@@ -17,8 +16,6 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemCondition;
 
 import scripts.common.makeShaped as makeShaped;
-
-val name as string = "inscriber_factory";
 
 val inscriber_factory = Builder.start("inscriber_factory", 3203)
     .withPattern(function(controller as IControllerTile) as IBlockPattern {
