@@ -22,7 +22,3 @@ recipemap.pcb_factory.name=PCB Factory
 multiblocktweaker.machine.large_rock_crusher.name=Large Rock Crusher
 
 recipemap.large_rock_crusher.name=Large Rock Crusher
-
-multiblocktweaker.machine.advanced_steam_heater.name=Advanced Steam Heater
-
-recipemap.advanced_steam_heater.name=Advanced Steam Heater
